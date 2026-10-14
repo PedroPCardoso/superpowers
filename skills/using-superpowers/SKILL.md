@@ -29,6 +29,9 @@ When multiple skills apply, process skills come first — they set the approach,
 
 - "Let's build X" → superpowers:brainstorming first, then implementation skills.
 - "Fix this bug" → superpowers:systematic-debugging first, then domain skills.
+<!-- cortexis:start -->
+- Projeto com marker `.cortexis` → o brainstorming consulta o Cortexis antes das perguntas e grava a decision depois do spec (ver seção Cortexis do brainstorming).
+<!-- cortexis:end -->
 
 ## Red Flags
 
